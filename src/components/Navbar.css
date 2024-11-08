@@ -1,0 +1,50 @@
+/* Navbar.css */
+
+.custom-navbar {
+    background: linear-gradient(135deg, #6b73ff 0%, #000dff 100%);
+    border-bottom: 2px solid #ffffff30;
+}
+
+.brand-title {
+    font-weight: bold;
+    color: #f8f9fa;
+    font-size: 1.5em;
+    transition: color 0.3s;
+}
+
+.nav-link {
+    color: #eaeaea !important;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #c0c0c0 !important;
+}
+
+.navbar-toggler {
+    border: none;
+    color: #ffffff;
+}
+
+.form-check-input {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    cursor: pointer;
+}
+
+.form-check-input:checked {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.form-check-label {
+    margin-left: 10px;
+    color: #eaeaea;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.form-check-label:hover {
+    color: #c0c0c0;
+}

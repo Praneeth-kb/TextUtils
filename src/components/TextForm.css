@@ -1,0 +1,47 @@
+/* .container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.styled-textarea {
+    font-size: 1.1em;
+    padding: 12px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.styled-textarea:focus {
+    outline: none;
+    border-color: #80bdff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.button-group button {
+    width: 150px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+.text-summary {
+    margin-top: 30px;
+    font-size: 1em;
+}
+
+.text-summary h2 {
+    font-size: 1.4em;
+    margin-bottom: 10px;
+} */
+
+.styled-textarea {
+    font-size: 1.1em;
+    padding: 12px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.button-group .btn {
+    width: 150px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
